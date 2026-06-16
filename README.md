@@ -9,7 +9,7 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
 ## 📊 Lab Projects & Progress
 
 | Project Name | Architecture | Status |
-| :--- | :--- | :--- | :---: |
+| :--- | :--- | :---: |
 | **01 MNIST Digit Classification** | Linear Model (ANN) | 🟢 Completed |
 | **02 MNIST Digit Recognition** | Convolutional Network (CNN) | 🟢 Completed |
 | **03 Cats vs Dogs Image Classifier** | Transfer Learning (ResNet18) | 🟡 In Progress |
