@@ -32,4 +32,4 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
 
 ### 🌐 Live Project Demos (Try it Yourself!)
 Here you can interact with the deployed AI models directly in your browser:
-- 🩺 **Pneumonia X-Ray Detection:** _[Link will be placed here once the Streamlit/HuggingFace app is ready]_
+- 🩺 **Pneumonia X-Ray Detection:** _[Link will be placed here once the HuggingFace app is ready]_
