@@ -32,5 +32,4 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
 
 ### 🌐 Live Project Demos (Try it Yourself!)
 Here you can interact with the deployed AI models directly in your browser:
-- 🐾 **Cats vs Dogs Classifier:** _[Deployment Link Coming Soon]_
 - 🩺 **Pneumonia X-Ray Detection:** _[Link will be placed here once the Streamlit/HuggingFace app is ready]_
