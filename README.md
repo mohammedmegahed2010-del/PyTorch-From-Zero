@@ -23,5 +23,14 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
   <img src="images/Kaggle_logo.png" height="70" alt="Kaggle">
 </p>
 
-## 📂 Structure
-- Each subfolder contains the training notebook (.ipynb), saved weights (.pth), and Streamlit deployment if available.
+## 📂 Structure & Deployments
+- Each project subfolder contains the implementation training notebook (`.ipynb`) and its standalone logic.
+- 📦 **Model Weights:** All trained model weights (`.pth`) are stored permanently and can be downloaded from the [Releases Section]([https://github.com](https://github.com/mohammedmegahed2010-del/PyTorch-From-Zero/releases/tag/v1.0)).
+- 🚀 **Interactive Web Apps:** Live demos and interactive user interfaces are built using **Streamlit** and hosted online for instant testing.
+
+---
+
+### 🌐 Live Project Demos (Try it Yourself!)
+Here you can interact with the deployed AI models directly in your browser:
+- 🐾 **Cats vs Dogs Classifier:** _[Deployment Link Coming Soon]_
+- 🩺 **Pneumonia X-Ray Detection:** _[Link will be placed here once the Streamlit/HuggingFace app is ready]_
