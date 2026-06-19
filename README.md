@@ -26,10 +26,3 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
 ## 📂 Structure & Deployments
 - Each project subfolder contains the implementation training notebook (`.ipynb`) and its standalone logic.
 - 📦 **Model Weights:** All trained model weights (`.pth`) are stored permanently and can be downloaded from the [Releases Section]([https://github.com](https://github.com/mohammedmegahed2010-del/PyTorch-From-Zero/releases/tag/v1.0)).
-- 🚀 **Interactive Web Apps:** Live demos and interactive user interfaces are built using **Streamlit** and hosted online for instant testing.
-
----
-
-### 🌐 Live Project Demos (Try it Yourself!)
-Here you can interact with the deployed AI models directly in your browser:
-- 🩺 **Pneumonia X-Ray Detection:** _[Link will be placed here once the HuggingFace app is ready]_
