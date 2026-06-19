@@ -24,11 +24,11 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
   <img src="images/Kaggle_logo.png" height="70" alt="Kaggle">
 </p>
 
-## 📂 Structure & Deployments
+## 📂 Structure
 - Each project subfolder contains the implementation training notebook (`.ipynb`) and its standalone logic.
 - 📦 **Model Weights:** All trained model weights (`.pth`) are stored permanently and can be downloaded from the [Releases Section](https://github.com/mohammedmegahed2010-del/PyTorch-From-Zero/releases/tag/v1.0).
 
-### 📝 Projects Breakdown & Details
+## 📝 Projects Breakdown & Details
 
 #### 01. MNIST Digit Classification
 * **Description:** An introductory project to get familiar with PyTorch tensors, datasets, and foundational neural network concepts.
