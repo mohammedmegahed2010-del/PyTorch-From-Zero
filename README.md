@@ -15,6 +15,7 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
 | **03 Medical Cost Prediction** | Linear Model (MLP) | 🟢 Completed |
 | **04 Cats vs Dogs Image Classifier** | Transfer Learning (ResNet18) | 🟢 Completed |
 | **05 Pneumonia X-Ray Detection** | Transfer Learning (ResNet18) | 🟢 Completed |
+| **06 Brain Tumor Detection (MRI)** | Transfer Learning (ResNet34) | 🟡 In Progress |
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
@@ -56,3 +57,7 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
 * **Focus:** Applying deep learning skills to real-world clinical data and saving deployment-ready weights (`.pth`).
 * **Metrics:** 83.20%
 
+#### 06. Brain Tumor Detection (MRI)
+* **Description:** A multi-class medical imaging application to classify brain MRI scans into four distinct categories (Healthy vs. 3 Tumor types).
+* **Architecture:** Custom CNN / ResNet-34.
+* **Focus:** Moving from binary to multi-class classification, handling grayscale MRI inputs, and preventing overfitting using advanced data augmentation.
