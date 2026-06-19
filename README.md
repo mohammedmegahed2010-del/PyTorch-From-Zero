@@ -14,7 +14,7 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
 | **02 MNIST Digit Recognition** | Convolutional Network (CNN) | 🟢 Completed |
 | **03 Medical Cost Prediction** | Linear Model (MLP) | 🟢 Completed |
 | **04 Cats vs Dogs Image Classifier** | Transfer Learning (ResNet18) | 🟢 Completed |
-| **05 Pneumonia X-Ray Detection** | Transfer Learning (ResNet18) | 🟡 In Progress |
+| **05 Pneumonia X-Ray Detection** | Transfer Learning (ResNet18) | 🟢 Completed |
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
