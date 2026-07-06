@@ -33,7 +33,7 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
 ### 01. MNIST Digit Classification 🔢
 
 <p align="center">
-  <img src="images/Artificial Neural Networks (ANN) Introduction.png" width="400" alt="MNIST Grid">
+  <img src="images/Artificial Neural Networks (ANN) Introduction.png" alt="MNIST Grid">
 </p>
 
 * **Description:** An introductory project to get familiar with PyTorch tensors, datasets, and foundational neural network concepts.
