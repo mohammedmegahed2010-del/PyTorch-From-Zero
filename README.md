@@ -43,7 +43,7 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
 #### 02. Digit Recognition (CNN)
 
 <p align="center">
-  <img src="images/Srishti’s Hand - a handwritten typeface….png" width="800" alt="CNN Handwritten Digits Recognition Preview">
+  <img src="images/Srishti’s Hand - a handwritten typeface….png" width="600" alt="CNN Handwritten Digits Recognition Preview">
 </p>
 
 * **Description:** Transitioning from linear models to computer vision architectures to improve image recognition.
