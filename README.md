@@ -53,7 +53,7 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
 #### 03. Medical Cost Prediction
 
 <p align="center">
-  <img src="images/Americans hospitalized with COVID now face exorbitant medical bills, study warns - Study Finds.png" width="800" alt="CNN Handwritten Digits Recognition Preview">
+  <img src="images/Americans hospitalized with COVID now face exorbitant medical bills, study warns - Study Finds.png" width="800" alt="Medical Bill Cost Prediction Preview">
 </p>
 
 * **Description:** A regression task aimed at predicting insurance medical costs based on tabular patient data.
