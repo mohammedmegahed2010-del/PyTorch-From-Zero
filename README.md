@@ -51,6 +51,11 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
 * **Focus:** Understanding convolutional layers, pooling, and feature extraction.
 
 #### 03. Medical Cost Prediction
+
+<p align="center">
+  <img src="images/Americans hospitalized with COVID now face exorbitant medical bills, study warns - Study Finds.png" width="800" alt="CNN Handwritten Digits Recognition Preview">
+</p>
+
 * **Description:** A regression task aimed at predicting insurance medical costs based on tabular patient data.
 * **Architecture:** Multi-Layer Perceptron (MLP).
 * **Focus:** Handling continuous data, preprocessing tabular inputs, and evaluating regression metrics.
