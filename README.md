@@ -25,7 +25,7 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
 </p>
 
 ## 📂 Structure
-- Each project subfolder contains the implementation training notebook (`.ipynb`) and its standalone logic.
+- Each project subfolder contains the implementation training notebook (`.ipynb`)
 - 📦 **Model Weights:** All trained model weights (`.pth`) are stored permanently and can be downloaded from the [Releases Section](https://github.com/mohammedmegahed2010-del/PyTorch-From-Zero/releases/tag/v1.0).
 
 ## 📝 Projects Breakdown & Details
