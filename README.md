@@ -33,7 +33,7 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
 ### 01. MNIST Digit Classification 🔢
 
 <p align="center">
-  <img src="images/Artificial Neural Networks (ANN) Introduction.png" width=800 alt="MNIST Grid">
+  <img src="images/Artificial Neural Networks (ANN) Introduction.png" width=800 alt="MNIST Preview">
 </p>
 
 * **Description:** An introductory project to get familiar with PyTorch tensors, datasets, and foundational neural network concepts.
@@ -61,6 +61,11 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
 * **Focus:** Handling continuous data, preprocessing tabular inputs, and evaluating regression metrics.
 
 #### 04. Cats vs Dogs Image Classifier
+
+<p align="center">
+  <img src="images/Cat Vs Dog Image Classification CNN Project Source Code.png" width="800" alt="Cat Vs Dog Classification Preview">
+</p>
+
 * **Description:** A classic computer vision challenge to classify binary image datasets.
 * **Architecture:** Transfer Learning with a pre-trained ResNet-18 baseline.
 * **Focus:** Learning how to freeze early layers and modify the classification head for new visual tasks.
