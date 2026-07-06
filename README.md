@@ -41,6 +41,11 @@ A structured log of my journey into Deep Learning and Computer Vision. Progressi
 * **Focus:** Learning basic forward propagation, loss functions, and optimization from scratch.
 
 #### 02. Digit Recognition (CNN)
+
+<p align="center">
+  <img src="images/Srishti’s Hand - a handwritten typeface….png" width="800" alt="CNN Handwritten Digits Recognition Preview">
+</p>
+
 * **Description:** Transitioning from linear models to computer vision architectures to improve image recognition.
 * **Architecture:** Custom Convolutional Neural Network (CNN).
 * **Focus:** Understanding convolutional layers, pooling, and feature extraction.
